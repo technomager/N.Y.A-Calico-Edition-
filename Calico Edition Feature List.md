@@ -39,4 +39,5 @@
 - Aded Slap da Butt
 - **Added Licenses Player Oppression (Optional)**
 - Added BaboDialog
+- Added Sex Lab Horrible Harassment
 - Added Hentai Pregnancy
