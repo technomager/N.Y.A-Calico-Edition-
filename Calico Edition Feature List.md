@@ -17,6 +17,7 @@
 
 - **Added SunHelm Survival**
 - Added IWant Widgets
+- Added Ride Sharing
 - Added The Amazing World Of Bikini Armor
 - Added The Expanded World of Bikini Armor
 - Added BD's Vanilla Armor Replacer
@@ -26,11 +27,14 @@
 ### Main Additions (NSFW)
 - Added Devious Devices
 - Added Devious Curses
+- Added SL Widgets
 - Added Slave Tats + many addons
 - Added Fade and R*pe Tats
 - Added Submissive Lola
 - Added Public Wh*re
 - Added Simple Slavery ++
+- Added S.L.U.T.S Resume
+- Aded Slap da Butt
 - **Added Licenses Player Oppression (Optional)**
 - Added BaboDialog
 - Added Hentai Pregnancy
