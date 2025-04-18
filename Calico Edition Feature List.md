@@ -25,6 +25,7 @@
 
 
 ### Main Additions (NSFW)
+- Added Several SLAnims
 - Added Devious Devices
 - Added Devious Curses
 - Added SL Widgets
