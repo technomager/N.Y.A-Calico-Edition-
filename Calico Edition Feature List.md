@@ -2,8 +2,8 @@
 
 
 ## MAIN DIFFERENCES
-- Downported Sexlab P+ to SexLab Orginal
-- TBD: SWITCH FROM ENB TO Community Shaders
+- [ ]Downported Sexlab P+ to SexLab Orginal
+- [ ]TBD: SWITCH FROM ENB TO Community Shaders
 
 ### Main Removals
 
