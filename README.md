@@ -17,3 +17,16 @@ This addon removes certain aspects of the original N.Y.A that I personally consi
 - Use of this Addon means you will no longer receive support from #nya-unmodified-support AND #nya-modding-general in the discord. if you need support check out #Calico-Support instead
 
 - This Addon **Will** make your game extremely unstable do to the drastic increase in number of actions the game has to preform in the background. Practice Safe Saving and Fully Closing the game every few real life hours should help with any preformance issues
+
+
+## Todo
+
+- [ ] Convince Vermillion to let me announce the pack
+- [ ] Finish Github Readme
+- [ ] Finish adding new mods
+- [X] Get an Icon!
+- [X] Make a Patreon [https://www.patreon.com/c/Technomager]
+- [ ] Do Basic Testing to make sure things work
+- [ ] Replace P+ with Original SL
+- [ ] Replace ENB with CS
+- [ ] Find Suitable CS
