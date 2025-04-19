@@ -18,6 +18,10 @@ This addon removes certain aspects of the original N.Y.A that I personally consi
 
 - This Addon **Will** make your game extremely unstable do to the drastic increase in number of actions the game has to preform in the background. Practice Safe Saving and Fully Closing the game every few real life hours should help with any preformance issues
 
+## To Those here very early
+Thank you for taking an interest in my little addon your support means a lot. I am not ready for any testers at the moment but will do my best to notify others when I am. I am a solo dev working on this addon and I have a full time job so please give me a bit of patience while I figure everything out. I am learning as I am going, before working on this part in earnist I had never used most of the Skyrim toolbox or even how to fully use github. I do not work with computers for a profession.
+
+if you want to talk to me about the list please do so in the Vermi's Hub [https://discord.gg/vermishub] assuming that Vermillion has set up proper channels to talk in.
 
 ## Todo
 
