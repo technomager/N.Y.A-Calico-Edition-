@@ -27,6 +27,11 @@ if you want to talk to me about the list please do so in the Vermi's Hub [https:
 
 To install this Addon, you install it very similar to how you originally installed N.Y.A, except instead of getting it from the wabbajack UI when you click browse, you will see an icon that says "install from disk". Find and Install NYACalicoEdition.wabbajack either on the discord or on this github, and install it from disk using wabbajack. Tell wabbajack to intall the files over the top of your base NYA install
 
+### TLDR;
+- Install all manual downloads, put them into your NYA downloads folder
+- Install .wabbajack File (Discord or in github)
+- Wabbajack UI, Browse Modlist, Install from disk
+- Point Wabbajack to original NYA download
 
 ## Todo
 
@@ -35,7 +40,5 @@ To install this Addon, you install it very similar to how you originally install
 - [ ] Finish adding new mods
 - [X] Get an Icon!
 - [X] Make a Patreon [https://www.patreon.com/c/Technomager]
-- [ ] Do Basic Testing to make sure things work
-- [ ] Replace P+ with Original SL
-- [ ] Replace ENB with CS
-- [ ] Find Suitable CS
+- [X] Do Basic Testing to make sure things work
+- [ ] Start Alpha Tests
