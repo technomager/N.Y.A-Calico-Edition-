@@ -23,6 +23,11 @@ Thank you for taking an interest in my little addon your support means a lot. I 
 
 if you want to talk to me about the list please do so in the Vermi's Hub [https://discord.gg/vermishub] assuming that Vermillion has set up proper channels to talk in.
 
+## How To Install
+
+To install this Addon, you install it very similar to how you originally installed N.Y.A, except instead of getting it from the wabbajack UI when you click browse, you will see an icon that says "install from disk". Find and Install NYACalicoEdition.wabbajack either on the discord or on this github, and install it from disk using wabbajack. Tell wabbajack to intall the files over the top of your base NYA install
+
+
 ## Todo
 
 - [ ] Convince Vermillion to let me announce the pack
