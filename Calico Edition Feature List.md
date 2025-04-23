@@ -2,15 +2,14 @@
 
 
 ## MAIN DIFFERENCES
-- [ ] Downported Sexlab P+ to SexLab Orginal
-- [ ] TBD: SWITCH FROM ENB TO Community Shaders
+
 
 ### Main Removals
 
 - Removed N.Y.A Backgrounds System
 - Removed UBE Support
 - Removed Paradise Halls
-- Removed Quickloot
+- ~~Removed Quickloot~~ Quickloot Supported!
 - Removed Many Followers
 - Removed Notice Boards
   
@@ -18,15 +17,14 @@
 
 - **Added SunHelm Survival**
 - Added IWant Widgets
-- Added Ride Sharing
 - Added The Amazing World Of Bikini Armor
 - Added The Expanded World of Bikini Armor
 - Added BD's Vanilla Armor Replacer
-- Added a few other SFW Armor mods
+- Added a few other SFW Armor mods ---SOON
 
 
 ### Main Additions (NSFW)
-- Added Several SLAnims
+- Added Several SLAnims ----SOON
 - Added Devious Devices
 - Added Devious Curses
 - Added SL Widgets
@@ -40,4 +38,4 @@
 - **Added Licenses Player Oppression (Optional)**
 - Added BaboDialog
 - Added Sex Lab Horrible Harassment
-- Added Hentai Pregnancy
+- Added Soul Gem Oven 4
