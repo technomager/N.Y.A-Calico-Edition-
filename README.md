@@ -49,8 +49,15 @@ if you want to talk to me about the list please do so in the Vermi's Hub [https:
 
 - [ ] Convince Vermillion to let me announce the pack
 - [ ] Finish Github Readme
-- [ ] Finish adding new mods
+- [X] Finish adding new mods
 - [X] Get an Icon!
-- [X] Make a Patreon [https://www.patreon.com/c/Technomager]
 - [X] Do Basic Testing to make sure things work
 - [ ] Start Alpha Tests
+
+
+# Thank Yous
+- Thank You To Vermillion for this amazing list
+- Thank You SleepoBeepo for Making the new Icon!
+- Thank you to Disturbed for letting me ~~Steal~~ Use some of your amazing modding docs
+- Thank you to any and all Alpha/Beta Testers who helped me solve bugs
+- Thank YOU the person reading this for taking the time out of your day to listen to this idiot yap and yell at clouds
