@@ -15,3 +15,16 @@ MO2 is a great tool, and I'll let you discover all its features yourself. The mo
 - The left panel is also there to manage conflicts between your assets or scripts, all the file types that the game will use. If one script conflicts with another, the one placed last will win! It's very important to take this into account, because the wrong order can cause you problems! (sometimes benign, of course)
 - MO2 tells you which mods are in conflict, so you can double-click on them or just click on them to see which mods are involved.
 - Create your own separators to manage your own additions, if you want to add more creature mods, then, place your mods below where Vermillion added them for NYA.
+
+
+![{FB21825E-04FA-432C-95C6-15272C70F91A}](https://github.com/user-attachments/assets/27e32723-8399-44c1-b2b8-8a673ad50044)
+
+
+### Right Panel (Plugins)
+- The right panel is used to manage the order of your plugins of your mods (files with .esl, .esp or .esm). It's very important, and causes most of the problems for people trying to edit the list. Certain plugins should be placed at the very bottom (notably Lux and its patches or Northern Roads or DynDOLOD and its Occlusion) because if a mod is placed further down than another, it means that it is "conflict-winner" for all mods that try to edit the same thing as it. If you have an addition that modifies a cell lower than Lux, it's very likely that it will edit the light system back to vanilla, overwriting Lux's modifications.
+- The best way to place your additions is to place them above Northern Roads and its patches. If you      want to know exactly, I suggest you take a look at my own plugin order . You will be sure that you’re not going to break anything from the major mods needing to be loaded at the very end (Lux, ACMOS, DynDOLOD, Northern Roads, Nefaram Patches, …etc)
+- You can easily know which mod, your plugin is ESPFE (ESL). You can see it when a plugin has a yellow dot as below : 
+![{5172DD71-F83F-4B47-86E0-D2399378E6C7}](https://github.com/user-attachments/assets/8ef625be-3f0f-4af0-a47f-087cc8837802)
+
+
+- Obviously, there's no mystery. To avoid supposing that a mod has no major conflict with a NYA mod or one of your additions, it's best for you to check. Sometimes it's difficult to know which mod conflicts with another, so you'll need to check with the SSEdit (XEdit) tool. For the additions in this document, you won't need it as I'll do it for you, but learn how to use it!
