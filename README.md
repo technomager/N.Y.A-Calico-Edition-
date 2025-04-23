@@ -8,7 +8,7 @@
 This addon removes certain aspects of the original N.Y.A that I personally considered 'Overpowered' or 'Dominant Focused' and replaced them with a slew of Raunchy, Horny and sometimes Mean mods. 
 
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/1361900507744043109/1362852738165117180/NYA_ICON_NSFW_.png?ex=6803e705&is=68029585&hm=954e882cbc374b7916ff1b07813eb62ed299bc364bfd5f12565f4736081cca97&=&format=webp&quality=lossless&width=960&height=960" width=50% height=50%>
+   <img src="https://i.imgur.com/tC2k3fN.jpeg&=&format=webp&quality=lossless&width=960&height=960">
 </p>
 
 ## Disclaimers
@@ -25,13 +25,25 @@ if you want to talk to me about the list please do so in the Vermi's Hub [https:
 
 ## How To Install
 
-To install this Addon, you install it very similar to how you originally installed N.Y.A, except instead of getting it from the wabbajack UI when you click browse, you will see an icon that says "install from disk". Find and Install NYACalicoEdition.wabbajack either on the discord or on this github, and install it from disk using wabbajack. Tell wabbajack to intall the files over the top of your base NYA install
+1. Install all manual downloads, put them into your NYA downloads folder
+2. Install .wabbajack File (Discord or in github)
+3. Wabbajack UI, Browse Modlist, Install from disk
+4. Point Wabbajack to original NYA download
 
-### TLDR;
-- Install all manual downloads, put them into your NYA downloads folder
-- Install .wabbajack File (Discord or in github)
-- Wabbajack UI, Browse Modlist, Install from disk
-- Point Wabbajack to original NYA download
+
+
+# I Launched the Game, Now what?
+
+1. First do the usual NYA startup
+ 
+> Wait 15 seconds, do your skyrim unbound settings, make character*, then click stay here and wait for the original MCM recorder to finish, afterwards press enter and start your game
+
+2. **Make sure to save!!!!!** you might crash on your first or second go around, but you signed up for a little jank
+3. After a sucessful save find the "MCM Recorder" MCM and click on the Calico Edition Recording and follow the prompts. wait until it says the Recorder is complete
+4. **Optional** Turn on Licenses (No Armor/Weapons in Cities), Soul Gem Oven (Pregnancy), and/or Sunhelm (Survival) in their respective MCMs
+5. Check out the MCMs! I suggest looking into Devious Devices/Devious Curses MCMs to tweak them to your liking, by default they are set to be not extremely intrusive
+6. Check out BaboDialog MCM to set you think your "Reletive Beauty stats" are for your character, people might talk...
+
 
 ## Todo
 
