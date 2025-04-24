@@ -41,6 +41,41 @@ Optional, but you can remove any mod from NYA if you know what you’re doing (I
 ### For This Guide That is All I Will Teach You
 if you wish to explode your brain, [a full guide on xedit can be found here](https://tes5edit.github.io/docs/)
 
+## Synthesis
+- A lot in N.Y.A is attached to Synthesis patches. Mainly connected to Backgrounds, Face Patches and the dreaded RPG loot mod. When removing mods to make ESP space, you will see the caution symbol get a yellow exclaimation point.
+
+  
+![{9140631A-8AE7-4EE5-96D8-66CE4229BB16}](https://github.com/user-attachments/assets/8c91a9e3-3c67-4d09-98ff-d45881e8abd8)
+
+![{6188242F-4E4C-459B-A78C-E9AA00754D64}](https://github.com/user-attachments/assets/44b79fe8-2233-4035-8849-8e28d1adef76)
+
+Trying to Disable a large mod like There Is No Umbra, can lead to disasterous results as seen here, but using this we can go through what to do for each "required by"
+
+### Required by what?
+- **DynDOLOD.esp** -- STOP, Turn around, do not come back, if anything touches DynDOLOD do not mess with it, NYA's DynDOLOD install is a complex and nested mess and to mess with it can and will break everything
+- **Patch.esp, ...Lux patch, any other .esp not listed here** -- Go to plugins and search for the bad patches and toggle them off
+- **Occlusion.esp, NYA Custom Patch.esp** -- XEdit Removing Masters will be required to remove
+- **Synthesis.esp, Synthesis_HPH_patch.esp, HalgariRPGLoot.esp** -- Move on to Synthesis instructions
+
+## Actual Synthesis Tutorial
+- We need to use Synthesis now. Click on “Launch N.Y.A Skyrim AE” at the top right and choose Synthesis as below. Then, run it 
+
+ ![{39851D5A-2658-4EC3-A14E-F552BE19F06D}](https://github.com/user-attachments/assets/6d3a2145-7612-477f-910e-207b316c64f0)
+
+![{D7FC9D17-9D99-4A8F-8962-155FB02A9FD7}](https://github.com/user-attachments/assets/63ba90c4-446b-4b37-b9fd-96d620b9fe18)
+
+- When you open Synthesis everything will be selected, if the issue you are having only specifies "Synthesis.esp" and/or "Synthesis_HPH_Patch.esp" feel free to toggle off "Halgaris RPG Loot Patcher" in synthesis (make sure to toggle it back on in synthesis before you leave if you intend to enable the mod for your playthough)
+
+![{346C3405-D615-4EDA-BB8D-1DA96E365C72}](https://github.com/user-attachments/assets/72cb9751-faf7-4a42-a581-b65b9a6b5b22)
+
+- After you have made your selections click on the arrow at the bottom of the page that says "run" when you hover over it
+
+![{C2180ECF-10EB-4DA9-BE22-2C8584EDDE0E}](https://github.com/user-attachments/assets/0ff629b7-9617-41c4-876c-41c1020fba70)
+
+- Once it is finished patching you are all done! (to re-enable RPG Loot Patcher, hit the back arrow and toggle it on, then you can quit the app)
+
+![{04E3B0B1-B0A3-4301-9EF4-2AB793563E19}](https://github.com/user-attachments/assets/5120b9b4-1d0b-4932-9d6a-30512cdd1064)
+
 
 ## Bodyslide (Armor)
 
@@ -60,3 +95,63 @@ if you wish to explode your brain, [a full guide on xedit can be found here](htt
 > [!NOTE]
 > If you find a armor you like, and it is not the right body type and its on nexus take a look at the "Requirements" section, under “Mods requiring this file”. if you are lucky, someone might share the 3BA Bodyslide for it. DO NOT PESTER AUTHORS TO MAKE YOU ONE
 
+- We need to use bodyslide now. Click on “Launch N.Y.A Skyrim AE” at the top right and choose BodySlide 64x as below. Then, run it 
+
+!![{8F52FB24-E7EB-4E52-ABAC-2E8FBDFADD5B}](https://github.com/user-attachments/assets/1b332076-e55b-4e6b-9c04-08000fee9542)
+
+- When the BodySlide window opens, Click the hourglass to search the specific armor groups, look for “Tawoba Remastered [3BA]” (sometimes they’re tricky to find) and then click on the check mark to select all of them, then hit OK.
+
+![{869C1620-C3F1-4404-9970-9D22CF8270BC}](https://github.com/user-attachments/assets/84c885e0-ad17-4fa4-9286-383f4bb20cfa)
+
+![{037957F7-43EA-492D-90CA-CEF0A2CE8987}](https://github.com/user-attachments/assets/c4fd71a7-1bfd-40ce-96d7-04a8fb0aa335)
+
+
+It should be selected by default but use “Zeroed Slider” as preset below Outfit/Body. **It’s very important.**
+
+![{F03F3CF7-0D90-49EA-BEBE-3FC1E7997AF4}](https://github.com/user-attachments/assets/8579136d-3a8d-4a5b-95fb-eb530cbd0c80)
+
+
+- Now it’s time to build the 3BA bodyslide, click on “Batch Build” at the bottom-left to build everything filtered (that’s why it’s important to filter, if not, everything will be selected). Check if the options are those you want and then hit "BUILD".
+
+![{BB380D60-74C3-460B-BAE8-4375AE056392}](https://github.com/user-attachments/assets/19136aaa-d8d6-4a8c-ac69-86d2bc2780d2)
+
+- Sometimes get a warning and we need to make a decision ! Sometimes, authors can provide several options for us (give them love). For some armors, we have to choose between multiple options. Also we have the choice with top only options. If you want to see the difference between a few types of armor, use the Outfit/body selector at the top of the page and select the armor you want to view, then click preview to get a gist of what it looks like, select what you want for each option!
+
+![{8D2686E0-B5D8-4A84-A429-26CCDE0317C3}](https://github.com/user-attachments/assets/e5f9682a-2f3f-4f89-836d-43085f0e3f11)
+> This is for BD's Armor Replacer (also in this list)
+
+- It’s done, well done! You can close BodySlide and I would recommend you to check in game by using AddItem Menu (check your bag, you spawn with it). Sometimes you can get surprises.
+
+### Final bodyslide tips
+- Downloading BodySlide Presets doesn't need to be built. You can use them right away by pressing “O” in game.
+- CBBE BodySlide can work but I've never succeeded in my case. If you want to learn more, you can learn how to convert CBBE to 3BA CBBE like [this tutorial](https://www.youtube.com/watch?v=Pa4O1bwY18Q).
+- You can create a “BodySlide Output” folder to store all your files. I don’t do that but I think it’s nice to inform you. Google it.
+- BodySlide is not only for sliding  armor to your body type. You can check The [BodySlide Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+
+## Extra Tips
+
+### Organize Your Additions!
+- Organize your own addition and respect the same order that Sky made (or just following what I did). You can create your own separator and do the same way as me. Place them as if your separators were mods or your can just right-click and choose where you want to move your separators.
+
+![{636CF3CF-7798-42CD-AACD-1B923D28388F}](https://github.com/user-attachments/assets/78d5b40d-a219-4308-8744-129c50f89e0b)
+
+### Make Backups!
+- Make a backup of your left and right panel. If you mess with something, you can revert your change ! Do a backup when you think it’s needed. I do a backup each time I add another mod after testing when I’m sure that everything is good. 
+
+![{F8392C11-1B8C-407D-9555-2A7CE580EE68}](https://github.com/user-attachments/assets/c8e8df05-adb5-443d-8bdc-962669172adf)
+
+- When you know that you’re going to mess with a mod or with a patch like trying to ESL a mod, make a backup of your mod. If something is wrong, you will be able to revert your modifications. Now you can mess with everything without being scared that you will break your list.
+
+### The ESP limit
+
+Unfortunately, you can’t add as many mods as you want. If you don’t do some trick you’re going to reach the well known limit. The limit is fixed at 253 or 254 esp+esm (some people say it’s better to let it at 253), if you reach it, your game will be unplayable. So be sure to never exceed it ! 
+
+To avoid this, you can ESL (ESPFE) your additions. However, not all mods can be ESL, but I'll specify which mod you can. If you'd like to know more, take a look at the XEdit section where I give you a great guide from LivelyDismay to do it yourself if you don't already know.
+
+![{2B2CE594-CEC3-4851-9A84-3052FC278870}](https://github.com/user-attachments/assets/321f2b6b-07c4-4b16-90fd-64d53517e494)
+
+> DO NOT LET ACTIVE ESMs + ESPs REACH 255!!!!
+
+
+### Final Advice
+- Finally, you don't need to know everything, just read what I've written to add the mods from this document. I've deliberately left out certain tools where they concern specific mods, like DynDOLOD. But once again, I strongly advise you to learn the basics of modding, you will be able to do a lot of things. Also, you need to make a new game any time you change mods.
