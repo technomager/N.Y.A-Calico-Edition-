@@ -128,6 +128,25 @@ It should be selected by default but use “Zeroed Slider” as preset below Out
 - You can create a “BodySlide Output” folder to store all your files. I don’t do that but I think it’s nice to inform you. Google it.
 - BodySlide is not only for sliding  armor to your body type. You can check The [BodySlide Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 
+## Pandora Behavior Engine
+> Pandora is all about Animations, and is much, much better than the Skyrim Animation Tools of the past, like FNIS, or Nemesis. If you do <ins>**ANYTHING**</ins> to do with animations, even looking at it wrong sometimes, will result in everyone T-Posing to prevent this, run Pandora
+
+- To launch Pandora, you run it like all of the other programs so far, Click on "Launch N.Y.A Skyrim AE" and SCROLL DOWN until you fine "Pandora Behavior Engine+", and run it
+
+![{02227051-A81A-4D92-A039-231931D86783}](https://github.com/user-attachments/assets/6b22aa9e-6988-47aa-b100-ff4006a9e51a)
+
+![{7A8B9BDB-84C9-4BB6-8E17-039F11A4DD2C}](https://github.com/user-attachments/assets/7168ca13-395a-4300-84f2-c9bb4762c610)
+
+- Once you get into the menu <ins> **ONLY HIT THE ARROW AT THE BOTTOM** </ins> all of the toggles on the top are set properly and messing with them can break everything.
+
+![{5059E73F-4FC0-45A9-A765-E0453342FBA5}](https://github.com/user-attachments/assets/5ae0f8c7-a0d0-4b10-8809-c7c2e74519ae)
+
+![{A87D629B-B645-4ECF-97D2-CF8D5E8FBB19}](https://github.com/user-attachments/assets/6525862d-f0b6-4599-90b2-dbf5eb951215)
+
+> Yes it was that fast, personally I like to run Pandora twice its a bit of a superstition but no harm can come of it
+
+- Once you see it finished you can exit the program, thats all you need to do!
+  
 ## Extra Tips
 
 ### Organize Your Additions!
