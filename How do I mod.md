@@ -3,6 +3,11 @@
 # How to…
 Before getting started, it's best to learn the right way to mod. Skyrim is one of the few games where you can mod almost anything inside the game, but it's also one where it's complicated to get started. Even more when you start with a list of +1000 mods and you have no experience of how to mod it . I'll give you some advice that comes to mind, but it's also up to you and your own responsibility to search and learn how things work. I'm here to help and assist, but as soon as you start modding, know that you're on your own. That’s a reason why I’m going to give you some, I hope, useful advice. 
 
+Quick and Dirty Table of contents
+[Mod Organizer](1-Mod-Organizer-2---MO2)
+[Xedit](https://github.com/technomager/N.Y.A-Calico-Edition-/edit/main/How%20do%20I%20mod.md#xedit-ssedit)
+
+
 
 ## 1. Mod Organizer 2 - MO2
 
@@ -40,3 +45,6 @@ Optional, but you can remove any mod from NYA if you know what you’re doing (I
 
 ### For This Guide That is All I Will Teach You
 if you wish to explode your brain, [a full guide on xedit can be found here](https://tes5edit.github.io/docs/)
+
+
+
