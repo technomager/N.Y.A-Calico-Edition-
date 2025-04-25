@@ -129,7 +129,12 @@ It should be selected by default but use “Zeroed Slider” as preset below Out
 - BodySlide is not only for sliding  armor to your body type. You can check The [BodySlide Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 
 ## Pandora Behavior Engine
-> Pandora is all about Animations, and is much, much better than the Skyrim Animation Tools of the past, like FNIS, or Nemesis. If you do <ins>**ANYTHING**</ins> to do with animations, even looking at it wrong sometimes, will result in everyone T-Posing to prevent this, run Pandora
+> Pandora is all about Animations, and is much, much better than the Skyrim Animation Tools of the past, like FNIS, or Nemesis. If you do <ins>**ANYTHING**</ins> to do with animations, even looking at it wrong sometimes, will result in everyone T-Posing to prevent this, you will need to run Pandora
+
+- Before you even Run pandora, make sure to delete the "meshes" folder from "N.Y.A Pandora Output V1" before running, this can be found by searching on MO2 and "opening with explorer" or by going to NYA's install directory and searching for it 
+
+![{7F6A218A-5AF5-48CE-BD7E-41F162B705C9}](https://github.com/user-attachments/assets/a24a8a54-5378-4fc8-b509-cfbeb2ee981e)
+
 
 - To launch Pandora, you run it like all of the other programs so far, Click on "Launch N.Y.A Skyrim AE" and SCROLL DOWN until you fine "Pandora Behavior Engine+", and run it
 
