@@ -25,10 +25,8 @@ if you want to talk to me about the list please do so in the Vermi's Hub [https:
 
 ## How To Install
 
-1. Install all manual downloads, put them into your NYA downloads folder
-2. Install .wabbajack File (Discord or in github)
-3. Wabbajack UI, Browse Modlist, Install from disk
-4. Point Wabbajack to original NYA download
+you will need to add all the mods manually, using the guides and links I have in this hub it should be a relatively painless, if annoying procedure.
+Make sure you follow the steps listed however otherwise you could end up with a lot of annoying problems
 
 
 
