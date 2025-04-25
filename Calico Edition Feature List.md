@@ -33,8 +33,10 @@
 - Added Submissive Lola
 - Added Public Wh*re
 - Added Simple Slavery ++
+- Added Skooma Wh*re
 - Added S.L.U.T.S Resume
 - Aded Slap da Butt
+- Added TDF Prostitution
 - **Added Licenses Player Oppression (Optional)**
 - Added BaboDialog
 - Added Sex Lab Horrible Harassment
