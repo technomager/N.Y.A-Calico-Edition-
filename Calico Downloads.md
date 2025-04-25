@@ -29,3 +29,11 @@
 (https://www.nexusmods.com/skyrimspecialedition/mods/41585)
 > Optional mod, for skimpifying all vanilla armor sets, don't get if you dont like it, if you do get it make sure to **install the update file as well**
 ![{FDB27C99-1CBA-4170-B6E9-72D72017F712}](https://github.com/user-attachments/assets/60da5bfa-83d1-4602-b2f4-7ac608da590f)
+
+
+## SFW Mods
+
+### Sunhelm Survival
+(https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files)
+> when downloading get the campfire patch, **and keep the mod above Sexlab on the right side**
+
