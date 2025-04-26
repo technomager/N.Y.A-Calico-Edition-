@@ -37,3 +37,19 @@
 (https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files)
 > when downloading get the campfire patch, **and keep the mod above Sexlab on the right side**
 
+
+
+## Extra SL Animations
+> For if you want a little extra spice
+
+(https://www.loverslab.com/files/file/3975-znaroks-animations-with-slal-packsse-version-included/)
+
+(https://www.loverslab.com/files/file/35012-wizard6-animation-pack/)
+
+(https://www.loverslab.com/files/file/6249-slal-ayasato-animations-28022018/)
+
+(https://www.loverslab.com/files/file/11308-dogmas-animations-for-slal/)
+
+(https://www.loverslab.com/files/file/6024-slal-se-animations-by-sailing-rebel-srb-2023-11-04/)
+
+(https://www.loverslab.com/topic/81049-3jious-animations-for-slal/page/2/) get the SSE version at the top of the second page
